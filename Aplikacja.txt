@@ -4,9 +4,17 @@
         System.out.println("Kliknij na przycisk x zaloguj");
     }
 
+
    public void logowaniegoogle() {
         System.out.println("Podaj email z gmaila");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk x zaloguj");
     }
+
+   public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwe msc");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk x zaloguj");
+    }
+
 
