@@ -18,3 +18,11 @@
     }
 
 
+   public void przypomnij hasło() {
+        System.out.println("Hasło to: 1234");
+    }
+
+
+
+
+
